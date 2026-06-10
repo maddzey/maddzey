@@ -1,10 +1,17 @@
 # [Madhavi]
 
-PhD, [PharmacoInformatics] @ [NIPER] · [Scholar](https://scholar.google.com/citations?user=8eh7KWIAAAAJ&hl=en) · [Website](https://www.tarqiq.com) · [ORCID]([link](https://orcid.org/0000-0001-9224-5168))
+PhD, [PharmacoInformatics] @ [NIPER] · [Scholar](https://scholar.google.com/citations?user=8eh7KWIAAAAJ&hl=en) · [Website](https://www.tarqiq.com) · [ORCID](https://orcid.org/0000-0001-9224-5168)
 [GMail](mailto:xyzmadhavi@gmail.com)
 
-### Pinned work
-See repositories below ↓ — each links to its paper.
+## Organisations
+- **[TarqIQ](https://github.com/TarqIQ)
+
+## Pinned work
+### Repositories
+- **[BioMed-KAI](https://github.com/TarqIQ/BioMed-KAI)** — Knowledge-augmented intelligence framework for biomedical reasoning and graph-enhanced LLM workflows.  
+- **[RxNExtract](https://github.com/TarqIQ/RxNExtract)** — LLM-based extraction of chemical reaction procedures into structured reaction data.  
+- **[MedKG](https://github.com/TarqIQ/MedKG)** — Biomedical knowledge graph integrating multi-omics, drug, disease, and pathway associations.  
+- **[ChemInstruct](https://github.com/TarqIQ/ChemInstruct)** — Toolkit for chemical NER model training, evaluation, and benchmarking.
 
 ### Stack
 `Python` · `PyTorch` · `R` · `[domain tools]`

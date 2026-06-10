@@ -4,13 +4,19 @@ PhD, [PharmacoInformatics] @ [NIPER] · [Scholar](https://scholar.google.com/cit
 [GMail](mailto:xyzmadhavi@gmail.com)
 
 ## Organisations
-- **[TarqIQ](https://github.com/TarqIQ)
+- **[TarqIQ](https://github.com/TarqIQ)**
 
 ## Pinned work
 ### Repositories
-- **[BioMed-KAI](https://github.com/TarqIQ/BioMed-KAI)** — Knowledge-augmented intelligence framework for biomedical reasoning and graph-enhanced LLM workflows.  
-- **[RxNExtract](https://github.com/TarqIQ/RxNExtract)** — LLM-based extraction of chemical reaction procedures into structured reaction data.  
-- **[MedKG](https://github.com/TarqIQ/MedKG)** — Biomedical knowledge graph integrating multi-omics, drug, disease, and pathway associations.  
+- **[BioMed-KAI](https://github.com/TarqIQ/BioMed-KAI)**
+[Journal](https://www.sciencedirect.com/science/article/abs/pii/S1566253525009649)
+Knowledge-augmented intelligence framework for biomedical reasoning and graph-enhanced LLM workflows.  
+- **[RxNExtract](https://github.com/TarqIQ/RxNExtract)**
+[Journal](https://pubs.acs.org/doi/10.1021/acs.jcim.5c02011)
+LLM-based extraction of chemical reaction procedures into structured reaction data.  
+- **[MedKG](https://github.com/TarqIQ/MedKG)**
+[Journal](https://doi.org/10.1007/s11030-025-11164-z)
+Biomedical knowledge graph integrating multi-omics, drug, disease, and pathway associations.  
 - **[ChemInstruct](https://github.com/TarqIQ/ChemInstruct)** — Toolkit for chemical NER model training, evaluation, and benchmarking.
 
 ### Stack
